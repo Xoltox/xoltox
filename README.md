@@ -16,6 +16,5 @@ I’ve worked across a broad spectrum of technologies, including:
 
 ---
 
-If you’d like to collaborate or just geek out about tech, here’s where you can find me:  
-- **GitHub**: [github.com/Xoltox](https://github.com/Xoltox)  
+If you’d like to collaborate or just geek out about tech, here’s where you can find me -
 - **LinkedIn**: [linkedin.com/in/sshparth](https://www.linkedin.com/in/sshparth/)  
