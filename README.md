@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth!  
 
-<!--
-**Xoltox/xoltox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a **Solution Architect** at **OutSystems**, a tech enthusiast, and someone who’s been fascinated with coding since the age of six. Technology is more than a career for me—it’s been my lifelong passion, taking me from tinkering with bare-metal C/C++ to architecting enterprise-grade solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+
+🔹 **Solution Architect @ OutSystems**  
+Crafting scalable, low-code solutions to solve complex business challenges.  
+
+🔹 **Tech Explorer**  
+I’ve worked across a broad spectrum of technologies, including:  
+- **Programming Languages**: JavaScript, Python, .NET, C++, and more.  
+- **Domains**: Robotics, Web Dev, Bare Metal Programming, Data Analytics, and Cloud Infra.  
+
+---
+
+If you’d like to collaborate or just geek out about tech, here’s where you can find me:  
+- **GitHub**: [github.com/Xoltox](https://github.com/Xoltox)  
+- **LinkedIn**: [linkedin.com/in/sshparth](https://www.linkedin.com/in/sshparth/)  
