@@ -1,6 +1,6 @@
 # Hi, I'm Parth  
 
-Welcome to my GitHub profile. I’m a **Solution Architect** at **OutSystems**, a tech enthusiast, and a passion for solving complex problems through technology. I’ve been coding since I was six years old and have worked across a wide range of domains, including Web Development, Robotics, Bare Metal Programming, IoT, and Data Analytics to architecting enterprise-grade solutions.
+I’m a **Solution Architect** at **OutSystems**, a tech enthusiast, and a passion for solving complex problems through technology. I’ve been coding since I was six years old and have worked across a wide range of domains, including Web Development, Robotics, Bare Metal Programming, IoT, and Data Analytics to architecting enterprise-grade solutions.
 
 ---
 
